@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonyouth&layout=compact)](https://github.com/yoonyouth)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoonyouth)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
