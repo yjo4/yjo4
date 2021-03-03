@@ -1,6 +1,6 @@
 # Welcome to Yoon Youth's Github
 
-:statue_of_liberty: New York, USA | :woman_technologist: Software Engineer
+**:statue_of_liberty: New York, USA | :woman_technologist: Software Engineer**
 
 ---
 
