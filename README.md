@@ -12,6 +12,7 @@
 **:bulb: Skills:**
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ApacheGroovy-298B8?style=flat-square&logo=ApacheGroovy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -20,6 +21,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
+
 
 
 
