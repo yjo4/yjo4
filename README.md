@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonyouth&layout=compact)](https://github.com/yoonyouth)
 
-Here are some ideas to get you started:
+**:octocat: About me:**
 
 - :statue_of_liberty: New York, USA
 - :woman_technologist: Software Engineer
