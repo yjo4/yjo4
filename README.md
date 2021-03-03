@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-square&logo=Azure DevOps&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MIT App Inventer-83B81A?style=flat-square&logo=MIT App Inventer&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RPG Maker MV-A6A9AA?style=flat-square&logo=RPG Maker MV&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
