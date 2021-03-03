@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonyouth%2F&count_bg=%2303D0D7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub last commit](https://img.shields.io/github/last-commit/yoonyouth/yoonyouth)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonyouth)](https://github.com/yoonyouth) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonyouth)](https://github.com/yoonyouth) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonyouth&layout=compact)](https://github.com/yoonyouth)
 
 **:octocat: About me:**
 ---
@@ -41,5 +41,3 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonyouth&layout=compact)](https://github.com/yoonyouth)
