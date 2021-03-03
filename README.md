@@ -17,5 +17,7 @@
 - ⚡ Fun fact: ...
 -->
 
+**:bulb: Skills:**
+
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonyouth)](https://github.com/yoonyouth) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonyouth&layout=compact)](https://github.com/yoonyouth)
