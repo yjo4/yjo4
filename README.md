@@ -32,10 +32,10 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 
-<!-- <img src="https://img.shields.io/badge/Apache Groovy-298B8?style=flat-square&logo=Apache Groovy&logoColor=white"/></a>  --> 
-<!-- <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/Katalon Studio-82BC23?style=flat-square&logo=Katalon Studio&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-square&logo=Azure DevOps&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/MIT App Inventer-83B81A?style=flat-square&logo=MIT App Inventer&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/ApacheGroovy-298B8?style=flat-square&logo=ApacheGroovy&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/KatalonStudio-82BC23?style=flat-square&logo=KatalonStudio&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/AzureDevOps-0078D7?style=flat-square&logo=AzureDevOps&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MITAppInventer-83B81A?style=flat-square&logo=MITAppInventer&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
